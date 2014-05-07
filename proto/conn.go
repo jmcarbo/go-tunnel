@@ -2,7 +2,7 @@ package proto
 
 import (
 	"encoding/binary"
-	"github.com/inconshreveable/go-tunnel/conn"
+	"github.com/jmcarbo/go-tunnel/conn"
 	"io"
 )
 

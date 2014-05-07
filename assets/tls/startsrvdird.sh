@@ -1,0 +1,1 @@
+srvdird  -domain="imim.es" -httpAddr=":80" -httpsAddr=":443" -httpsTLSCrt="server.crt" -httpsTLSKey="server.key" -log="stdout" -tunnelAddr=":4443" -tunnelTLSCrt="server.crt" -tunnelTLSKey="server.key"

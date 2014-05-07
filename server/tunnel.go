@@ -2,9 +2,9 @@ package server
 
 import (
 	"fmt"
-	conn "github.com/inconshreveable/go-tunnel/conn"
-	log "github.com/inconshreveable/go-tunnel/log"
-	proto "github.com/inconshreveable/go-tunnel/proto"
+	conn "github.com/jmcarbo/go-tunnel/conn"
+	log "github.com/jmcarbo/go-tunnel/log"
+	proto "github.com/jmcarbo/go-tunnel/proto"
 	"net"
 	"runtime/debug"
 	"sync/atomic"

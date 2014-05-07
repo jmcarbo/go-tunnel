@@ -2,7 +2,7 @@ package binder
 
 import (
 	"fmt"
-	"github.com/inconshreveable/go-tunnel/proto"
+	"github.com/jmcarbo/go-tunnel/proto"
 	"net"
 	"strings"
 )

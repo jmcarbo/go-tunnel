@@ -2,7 +2,7 @@ package tunnel
 
 import (
 	"crypto/tls"
-	client "github.com/inconshreveable/go-tunnel/client"
+	client "github.com/jmcarbo/go-tunnel/client"
 	"github.com/inconshreveable/muxado"
 	"net"
 )

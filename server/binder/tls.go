@@ -2,7 +2,7 @@ package binder
 
 import (
 	"fmt"
-	proto "github.com/inconshreveable/go-tunnel/proto"
+	proto "github.com/jmcarbo/go-tunnel/proto"
 	vhost "github.com/inconshreveable/go-vhost"
 	"net"
 	"time"

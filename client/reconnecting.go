@@ -2,8 +2,8 @@ package client
 
 import (
 	"errors"
-	"github.com/inconshreveable/go-tunnel/conn"
-	"github.com/inconshreveable/go-tunnel/proto"
+	"github.com/jmcarbo/go-tunnel/conn"
+	"github.com/jmcarbo/go-tunnel/proto"
 	"github.com/inconshreveable/muxado"
 	"math"
 	"sync"

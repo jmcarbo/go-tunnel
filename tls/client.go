@@ -60,5 +60,6 @@ func clientConfigFromBytes(servername string, roots [][]byte) (*tls.Config, erro
 	return &tls.Config{
 		RootCAs:    pool,
 		ServerName: servername,
+    //InsecureSkipVerify: true,
 	}, nil
 }

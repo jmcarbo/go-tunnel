@@ -1,9 +1,9 @@
 package tunnel
 
 import (
-	client "github.com/inconshreveable/go-tunnel/client"
-	proto "github.com/inconshreveable/go-tunnel/proto"
-	tuntls "github.com/inconshreveable/go-tunnel/tls"
+	client "github.com/jmcarbo/go-tunnel/client"
+	proto "github.com/jmcarbo/go-tunnel/proto"
+	tuntls "github.com/jmcarbo/go-tunnel/tls"
 )
 
 const (

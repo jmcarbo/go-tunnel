@@ -2,8 +2,8 @@ package conn
 
 import (
 	"crypto/tls"
-	log "github.com/inconshreveable/go-tunnel/log"
-	util "github.com/inconshreveable/go-tunnel/util"
+	log "github.com/jmcarbo/go-tunnel/log"
+	util "github.com/jmcarbo/go-tunnel/util"
 	"io"
 	"net"
 	"sync"

@@ -2,10 +2,10 @@ package server
 
 import (
 	"fmt"
-	conn "github.com/inconshreveable/go-tunnel/conn"
-	log "github.com/inconshreveable/go-tunnel/log"
-	proto "github.com/inconshreveable/go-tunnel/proto"
-	util "github.com/inconshreveable/go-tunnel/util"
+	conn "github.com/jmcarbo/go-tunnel/conn"
+	log "github.com/jmcarbo/go-tunnel/log"
+	proto "github.com/jmcarbo/go-tunnel/proto"
+	util "github.com/jmcarbo/go-tunnel/util"
 	muxado "github.com/inconshreveable/muxado"
 	"reflect"
 	"runtime/debug"

@@ -1,8 +1,8 @@
 package server
 
 import (
-	conn "github.com/inconshreveable/go-tunnel/conn"
-	proto "github.com/inconshreveable/go-tunnel/proto"
+	conn "github.com/jmcarbo/go-tunnel/conn"
+	proto "github.com/jmcarbo/go-tunnel/proto"
 	"time"
 )
 
